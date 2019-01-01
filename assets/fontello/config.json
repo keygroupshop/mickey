@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c6ecc52b6db2a649a08ff54e5ea62886",
+      "css": "key-inv",
+      "code": 59392,
+      "src": "iconic"
+    },
+    {
+      "uid": "cc20f2a7fa05a475130c406740bbbd26",
+      "css": "instagram-filled",
+      "code": 62239,
+      "src": "brandico"
+    },
+    {
+      "uid": "dad4e7f8dc2e57c92cffc0231202d9a0",
+      "css": "instagram",
+      "code": 62238,
+      "src": "brandico"
+    },
+    {
+      "uid": "9e6a3483242474b6a1f77739ae3fdfdc",
+      "css": "tumblr-rect",
+      "code": 62224,
+      "src": "brandico"
+    },
+    {
+      "uid": "076f25da90f45dd112e006f2cd7ea76b",
+      "css": "tumblr",
+      "code": 62225,
+      "src": "brandico"
+    },
+    {
+      "uid": "e0d15ef5945000f5f264acc35494002f",
+      "css": "basket",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "c1f0120c5cb9af80a2f56d7d7fb2f489",
+      "css": "cart",
+      "code": 59394,
+      "src": "zocial"
+    },
+    {
+      "uid": "799d6108751f684ac9d018983251a08f",
+      "css": "pinterest",
+      "code": 59395,
+      "src": "zocial"
+    }
+  ]
+}

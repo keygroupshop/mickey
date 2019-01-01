@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "D-366 2020원더키디"
+date:   2018-12-31 01:00:00
+last_modified_at:  2018-12-31 01:00:00
+excerpt: "2020원더키디. 대단한 퀄리티를 자랑한 불후의 명작."
+categories: history
+tags:  disney
+image:
+  feature: 크로스.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+1년 남았드아!!!!!!아아아!!!!!

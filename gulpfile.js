@@ -18,10 +18,10 @@ var messages = {
  * Build the Jekyll Site
  */
 gulp.task('jekyll-build', function (done) {
-    browserSync.notify(messages.jekyllBuild);
+    browserSync.notify(messages.jekyllBuild)
     return cp.spawn('jekyll', ['build', '--config=_config.yml'], {stdio: 'inherit'})
-        .on('close', done);
-});
+        .on('close', done)
+})
 
 /**
  * Wait for jekyll-build, then launch the Server
